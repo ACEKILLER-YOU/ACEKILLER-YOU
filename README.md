@@ -28,9 +28,11 @@ Here are some ideas to get you started:
 ⠘⢿⣿⠟⠙⠳⣤⣀⣀⡀⠀⠀⠀⢀⣀⣀⣀⣀⣀⣀⣀⣀⣼⡔⣿⣿⣿⡿⣛⣵⣿⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⠾⣄⣀⣀⣠⡼⠁⠈⠳⢤⣤⡤⠾⠁
 ⠀⠀⠀⠀⠀⠀⠀⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠻⢮⣭⠵⠞⠉⠉⠉⠉⠙⠛⠛⠉⠛⠋⠉⠛⠛⠛⠛⠋⠉⠁⠀⠀⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
-1️⃣特征 : 懒狗
+![Visitor Count](https://profile-counter.glitch.me/ACEKILLER-YOU/count.svg)
 
-2️⃣理想 : 想成为黑客高手！
+☀️ 特征 : 懒狗
 
-3️⃣技能 : 什么都是一点点(Python,web sec,network route....)
+☀️ 理想 : 想成为黑客高手！
+
+☀️ 技能 : 什么都是一点点(Python,web sec,network route....)
 
