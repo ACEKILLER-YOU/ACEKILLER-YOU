@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 
 ![Visitor Count](https://profile-counter.glitch.me/ACEKILLER-YOU/count.svg)
 
+🦸‍♂️喜欢无证骑士不屈的正义！C级英雄也要在需要的时候站出来，勇敢面对困难！
+
 ☀️ 特征 : 懒狗
 
 ☀️ 理想 : 想成为黑客高手！
