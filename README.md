@@ -40,4 +40,5 @@ Here are some ideas to get you started:
 
 📓 2023 正在做的事情:
 - HeroClub 养成系统
+- 减肥
 
