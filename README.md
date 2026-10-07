@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-  Hi there, I'm <a href="https://github.com/你的GitHub用户名" target="_blank">KingYo</a> 👋
+  Hi there, I'm <a href="https://github.com/ACEKILLER-YOU" target="_blank">KingYo</a> 👋
 </h1>
 
 <p align="center">
