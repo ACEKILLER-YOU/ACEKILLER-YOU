@@ -1,14 +1,14 @@
-<!-- 头部动图或 ASCII 艺术，增加视觉冲击力 -->
+<!-- 顶部动图（已缩小尺寸） -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Hacker typing"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Hacker typing"/>
 </p>
 
 <h1 align="center">
-  Hi there, I'm <a href="https://github.com/你的GitHub用户名" target="_blank">你的GitHub用户名</a> 👋
+  Hi there, I'm <a href="https://github.com/你的GitHub用户名" target="_blank">KingYo</a> 👋
 </h1>
 
 <p align="center">
-  <em>🦸‍♂️ 拥有 C 级英雄的谦逊，但追求 S 级英雄的技术实力！</em>
+  <em>‍♂️ 尽管我们不被看好，但我们依然需要站出来---By 无证骑士</em>
 </p>
 
 <p align="center">
